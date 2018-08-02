@@ -3,14 +3,13 @@ A MongoDB Express Node backend with Vue frontend webapp
 Utilizes Mongoose Schemas
 
 ### To run application 2 terminals are needed
---
+---
     cd client
     npm install
     npm run dev
     cd server npm install
     npm start
-
---
+---
 
 ## Needed: an install script that runs both client and server 
 
